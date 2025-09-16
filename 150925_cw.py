@@ -348,15 +348,15 @@ if __name__ == "__main__":
     # TASK3
       # Використання
     passenger1 = Passenger("Alice", 2, ["ticket", "phone"])
-    passenger2 = Passenger("Bob", 1, ["ticket", "knife"])
+    passenger2 = Passenger("Bob", 1, ["ticket", "ніж"])
     passenger3 = Passenger("Charlie", 3, ["ticket"])
     passenger4 = Passenger("David", 4, ["ticket", "laptop"])
-    passenger5 = Passenger("Eva", 2, ["bottle", "knife"])
+    passenger5 = Passenger("Eva", 2, ["bottle", "ніж"])
     passenger6 = Passenger("Frank", 3, ["book"])
-    passenger7 = Passenger("Grace", 1, ["ticket", "explosives"])
+    passenger7 = Passenger("Grace", 1, ["ticket", "вибухівка"])
     passenger8 = Passenger("Hannah", 5, ["phone", "tablet"])
     passenger9 = Passenger("Ivy", 2, ["ticket", "earphones"])
-    passenger10 = Passenger("Jack", 1, ["ticket", "gun"])
+    passenger10 = Passenger("Jack", 1, ["ticket", "зброя"])
 
     # Створюємо аеропорт
     airport = Airport()
