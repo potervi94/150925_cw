@@ -359,7 +359,7 @@ if __name__ == "__main__":
     passenger10 = Passenger("Jack", 1, ["ticket", "зброя"])
 
     # Створюємо аеропорт
-    airport = Airport()
+    airport = AirportTask3()
 
     # Додаємо пасажирів до реєстрації
     airport.add(passenger1)
